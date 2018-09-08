@@ -22,7 +22,7 @@
     "siteFonts": [],
     "uniqCompNum": 16,
     "noImageResize": "",
-    "siteUrl": "http://wilzamguerrero.ml",
+    "siteUrl": "https://wilzamguerrero.ml",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
