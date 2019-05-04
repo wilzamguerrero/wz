@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.8.7",
     "name": "wilzamguerrero",
     "theme": {
       "name": "default",
@@ -228,7 +228,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "<br><br><br><br>ZTOOLS 0.3",
+                "title": "<br><br><br><br>ZTOOLS 0.4",
                 "contentAlign": "center",
                 "text": "Ztools es un conjunto de herramientas recopilada de NUKEPEDIA y de otros artistas organizadas en una sola.&nbsp;buscando mejorar el workflow de composición y VFX en Nuke&nbsp;",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://gumroad.com/l/ozcrW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a> ",
