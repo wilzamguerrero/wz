@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.10.5",
     "name": "wilzamguerrero-clone",
@@ -1321,7 +1321,7 @@
             "overlayOpacity": "0"
           },
           "title": "<br><br><br><br><br><br>FORMAS DE PAGO<br>",
-          "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br><br><br>│<br>│<br>▼<br><br><br>",
+          "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page2.html#header4-w\" data-toolbar=\"-mbrBtnMove\">PAGO</a>",
           "_tags": [
             "Tema"
