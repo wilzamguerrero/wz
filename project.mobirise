@@ -771,7 +771,7 @@
           },
           "title": "<br><br><br><br><br><br>ANIMACIÓN 3D",
           "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page2.html#header4-w\" data-toolbar=\"-mbrBtnMove\">PAGO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page2.html#header4-16\" data-toolbar=\"-mbrBtnMove\">PAGO</a>",
           "_tags": [
             "Tema"
           ],
@@ -852,7 +852,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
-          "title": "DESCRIPCIÓN",
+          "title": "INFOR",
           "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
