@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cursos.html",
+    "currentPage": "pagar.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.10.5",
     "name": "wilzamguerrero-clone",
@@ -213,7 +213,7 @@
           },
           "title": "TIENDA",
           "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros.</p><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html#header4-n\" data-toolbar=\"-mbrBtnMove\">CURSOS<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\">CURSOS<br></a>",
           "_tags": [
             "Tema"
           ],
@@ -771,7 +771,7 @@
           },
           "title": "<br><br><br><br><br><br>ANIMACIÓN 3D",
           "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page2.html#header4-16\" data-toolbar=\"-mbrBtnMove\">PAGAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"pagar.html#header4-16\" data-toolbar=\"-mbrBtnMove\">PAGAR</a>",
           "_tags": [
             "Tema"
           ],
@@ -1463,7 +1463,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
-          "title": "<br><br><br><br><br><br>FORMAS DE PAGO<br>",
+          "title": "<br><br><br><br><br><br><br>FORMAS DE PAGO<br>",
           "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"page2.html#header4-w\" data-toolbar=\"-mbrBtnMove\">PAGO</a>",
           "_tags": [
