@@ -840,7 +840,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/a3e-1920x1790.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/a3g-1-1920x1790.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
@@ -853,7 +853,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "<br><br>ANIMATE!",
-          "text": "<br><br>Este curso presencial está pensado para todos aquellos artistas que quieren comenzar o ya tienen fundamentos de manera profesional en el arte de la animación 3d, trabajaremos con Autodesk Maya el software número 1 y líder en animación 3d en producciones de cine y videojuegos. \n<br>\n<br>Comenzaremos desde 0 y lo primordial será que en este primer nivel abordaremos conceptos y principios fundamentales de la animación que serán pilares principales en cualquier tipo de desarrollo para la animación.\n<br>\n<br>Aprenderás a animar personajes pero más allá podrás aplicar esto a cualquier software o desempeño gráfico, tendrás una sesión presencial por jornada son en total 4 y 4 mas de feedback en línea (no obligatorios) todas las sesiones presencial o en línea serán grabadas para que puedan acceder en cualquier momento, recibirán libros digitales y material extra para su aprendizaje, trabajaremos con scripts y herramientas que nos facilitaran el trabajo, y muchas mas agregados para que su aprendizaje se dé la mejor calidad.&nbsp;<br>",
+          "text": "<br>Este curso presencial está pensado para todos aquellos artistas que quieren comenzar o ya tienen fundamentos de manera profesional en el arte de la animación 3d, trabajaremos con Autodesk Maya el software número 1 y líder en animación 3d en producciones de cine y videojuegos. \n<br>\n<br>Comenzaremos desde 0 y lo primordial será que en este primer nivel abordemos conceptos y principios fundamentales de la animación que serán pilares principales en cualquier tipo de desarrollo para la producción en la indsutria audiovisual.\n<br>\n<br>Aprenderás a animar personajes pero más allá podrás aplicar esto a cualquier software o desempeño gráfico, tendrás una sesión presencial por jornada son en total 4 y 4 mas de feedback en línea (no obligatorios) todas las sesiones presencial o en línea serán grabadas para que puedan acceder en cualquier momento, recibirán libros digitales y material extra para su aprendizaje, trabajaremos con scripts y herramientas que nos facilitaran el trabajo, y muchas mas agregados para que su aprendizaje se dé la mejor calidad.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Tema"
