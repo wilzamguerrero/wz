@@ -215,6 +215,10 @@
 
 
 
+
+
+
+
 #ext_menu-g .mbr-brand__name {
   font-size: 16px;
 }
@@ -249,6 +253,19 @@
 #header4-n .btn {
   font-family: 'Montserrat', sans-serif;
 }
+#msg-box4-1g .mbr-header__text {
+  color: #000000;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-1g .mbr-header__subtext {
+  color: #434343;
+  font-size: 17px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box4-1g .mbr-article {
+  color: #ffffff;
+}
 #social-buttons1-q .mbr-header__text {
   text-align: right;
   font-size: 22px;
@@ -258,6 +275,7 @@
   text-align: left;
   color: #777777;
   font-family: 'Titillium Web', sans-serif;
+  font-size: 17px;
 }
 #header2-u H1 {
   text-align: left;
@@ -310,6 +328,19 @@
 #pricing-table1-s .mbr-plan__details UL {
   text-align: center;
 }
+#msg-box4-1f .mbr-header__text {
+  color: #000000;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-1f .mbr-header__subtext {
+  color: #434343;
+  font-size: 17px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box4-1f .mbr-article {
+  color: #ffffff;
+}
 #form1-m .btn {
   font-family: 'Montserrat', sans-serif;
 }
@@ -319,6 +350,8 @@
 #footer1-i P {
   text-align: center;
 }
+
+
 
 
 
@@ -376,4 +409,17 @@
 }
 #features1-15 P {
   text-align: center;
+}
+#msg-box4-1h .mbr-header__text {
+  color: #000000;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-1h .mbr-header__subtext {
+  color: #434343;
+  font-size: 17px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box4-1h .mbr-article {
+  color: #ffffff;
 }

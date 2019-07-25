@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "cursos.html",
+    "currentPage": "pagar.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.10.5",
     "name": "wilzamguerrero-clone",
@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 47,
+    "uniqCompNum": 54,
     "noImageResize": "",
     "siteUrl": "https://wilzamguerrero.ml",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -799,6 +799,80 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "34",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p5-533x439.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CHAT",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#434343",
+              "font-size": "17px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "<span style=\"font-style: normal;\">Puedes escribir en cualquier momento solo debes darle click en el boton de chat que esta en la parte inferior derecha, responderemos cualquier inquietud que tengas.&nbsp;</span><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1g"
+        },
+        {
           "_params": {
             "inverse": true,
             "paddingTop": "2",
@@ -853,7 +927,7 @@
             "overlayOpacity": "0.8"
           },
           "title": "<br><br>ANIMATE!",
-          "text": "<br>Este curso presencial está pensado para todos aquellos artistas que quieren comenzar o ya tienen fundamentos de manera profesional en el arte de la animación 3d, trabajaremos con Autodesk Maya el software número 1 y líder en animación 3d en producciones de cine y videojuegos. \n<br>\n<br>Comenzaremos desde 0 y lo primordial será que en este primer nivel abordemos conceptos y principios fundamentales de la animación que serán pilares principales en cualquier tipo de desarrollo para la producción en la indsutria audiovisual.\n<br>\n<br>Aprenderás a animar personajes pero más allá podrás aplicar esto a cualquier software o desempeño gráfico, tendrás una sesión presencial por jornada son en total 4 y 4 mas de feedback en línea (no obligatorios) todas las sesiones presencial o en línea serán grabadas para que puedan acceder en cualquier momento, recibirán libros digitales y material extra para su aprendizaje, trabajaremos con scripts y herramientas que nos facilitaran el trabajo, y muchas mas agregados para que su aprendizaje se dé la mejor calidad.&nbsp;<br>",
+          "text": "<br>Este <b>curso presencial</b> está pensado para todos aquellos artistas que quieren comenzar o ya tienen fundamentos de manera profesional en el arte de la animación 3d, trabajaremos con <b>Autodesk Maya</b> el software número 1 y líder en animación 3d en <b>producciones de cine y videojuegos</b>. \n<br>\n<br>Comenzaremos desde 0 y lo primordial será que en este primer nivel abordemos <b>conceptos y principios fundamentales</b> de la animación que serán pilares principales en cualquier tipo de desarrollo para la producción en la indsutria audiovisual.\n<br>\n<br>Aprenderás a animar personajes pero más allá podrás aplicar esto a cualquier software o desempeño gráfico, tendrás una <b>sesión presencial</b> por jornada son en total 4 y 4 mas de <b>feedback en línea</b> (no obligatorios) todas las sesiones presencial o en línea serán grabadas para que puedan acceder en cualquier momento, recibirán libros digitales y material extra para su aprendizaje, trabajaremos con scripts y herramientas que nos facilitaran el trabajo, y muchas mas agregados para que su aprendizaje se dé la mejor calidad.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Tema"
@@ -866,7 +940,8 @@
               "text-align": "left",
               "color": "#777777",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "17px"
             },
             "H1": {
               "text-align": "left",
@@ -1227,6 +1302,80 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "49",
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p4-1-533x439.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "PLATAFORMAS",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#434343",
+              "font-size": "17px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "<span style=\"font-style: normal;\">Estas son nuestras plataformas para el desarrollo del curso y poder estar en contacto en cualquier momento, resolver sus dudas y correcciones de los ejercicios lo mas pronto posible.</span><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1f"
         },
         {
           "_params": {
@@ -1673,6 +1822,80 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "34",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/p5-533x439.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CHAT",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Tema"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#434343",
+              "font-size": "17px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "<span style=\"font-style: normal;\">Puedes escribir en cualquier momento solo debes darle click en el boton de chat que esta en la parte inferior derecha, responderemos cualquier inquietud que tengas.&nbsp;</span><br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1h"
         }
       ]
     }
