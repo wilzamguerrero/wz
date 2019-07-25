@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pagar.html",
+    "currentPage": "cursos.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.10.5",
     "name": "wilzamguerrero-clone",
@@ -770,7 +770,7 @@
             "overlayOpacity": "0"
           },
           "title": "<br><br><br><br><br><br><br>ANIMACIÓN 3D",
-          "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br>",
+          "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"pagar.html#header4-16\" data-toolbar=\"-mbrBtnMove\">PAGAR</a>",
           "_tags": [
             "Tema"
