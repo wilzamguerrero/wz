@@ -24,199 +24,6 @@
 
 
 
-#ext_menu-165 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-165.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
-}
-#ext_menu-165 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#ext_menu-165 .mbr-navbar__items a {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
-}
-#ext_menu-165 .mbr-brand__name a {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 20px;
-}
-#ext_menu-165 .mbr-navbar__items a SPAN {
-  font-size: 12px;
-}
-#header4-164 SPAN {
-  font-size: 80px;
-  font-family: 'Oswald', sans-serif;
-}
-#header4-164 H1 {
-  font-size: 48px;
-  font-family: 'Oswald', sans-serif;
-  text-align: center;
-}
-#header4-164 P {
-  color: #e25041;
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
-}
-#header4-164 .btn {
-  font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-b .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #7ac673;
-  font-size: 46px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-b .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-b .mbr-article {
-  color: #c1c1c1;
-  text-align: center;
-  font-size: 18px;
-}
-#content5-b .mbr-article DIV {
-  color: #c1c1c1;
-}
-#content5-b .mbr-article P {
-  font-family: 'Titillium Web', sans-serif;
-}
-#content5-b .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#slider-5 P {
-  text-align: center;
-  font-size: 18px;
-  font-family: 'Titillium Web', sans-serif;
-}
-#slider-5 H1 {
-  color: #7ac673;
-  font-size: 36px;
-  font-family: 'Montserrat', sans-serif;
-}
-#slider-5 .btn {
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-166 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-  font-size: 46px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-166 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-166 .mbr-article {
-  color: #c1c1c1;
-  text-align: center;
-  font-size: 18px;
-}
-#content5-166 .mbr-article DIV {
-  color: #c1c1c1;
-}
-#content5-166 .mbr-article P {
-  font-family: 'Titillium Web', sans-serif;
-}
-#content5-9 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #e25041;
-  font-size: 46px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-9 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-9 .mbr-article {
-  color: #c1c1c1;
-  text-align: center;
-  font-size: 18px;
-}
-#content5-9 .mbr-article DIV {
-  color: #c1c1c1;
-}
-#content5-9 .mbr-article P {
-  font-family: 'Titillium Web', sans-serif;
-}
-#content5-6 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #faaf40;
-  font-size: 46px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-6 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #c1c1c1;
-  font-size: 20px;
-}
-#content5-6 .mbr-article {
-  color: #fff;
-}
-#content5-6 .mbr-article P {
-  text-align: center;
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 25px;
-  color: #faaf40;
-}
-#content5-6 .btn {
-  font-size: 12px;
-  font-family: 'Montserrat', sans-serif;
-}
-#content5-6 .mbr-header .mbr-header__subtext SPAN {
-  font-size: 18px;
-  font-family: 'Titillium Web', sans-serif;
-}
-#social-buttons1-d .mbr-header__text {
-  color: #434343;
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-}
-#contacts3-7 STRONG {
-  color: #ffffff;
-}
-#contacts3-7 .btn {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
-}
-#contacts3-7 P {
-  text-align: right;
-  font-size: 14px;
-  color: #9c9c9c;
-  font-family: 'Titillium Web', sans-serif;
-}
-#contacts3-7 B {
-  color: #ffffff;
-}
-#footer1-3 P {
-  text-align: center;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #ext_menu-g .mbr-brand__name {
@@ -422,4 +229,201 @@
 }
 #msg-box4-1h .mbr-article {
   color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#ext_menu-165 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-165.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-165 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-165 .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#ext_menu-165 .mbr-brand__name a {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-165 .mbr-navbar__items a SPAN {
+  font-size: 12px;
+}
+#header4-164 SPAN {
+  font-size: 80px;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-164 H1 {
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+#header4-164 P {
+  color: #e25041;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#header4-164 .btn {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-b .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #7ac673;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-b .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-b .mbr-article {
+  color: #c1c1c1;
+  text-align: center;
+  font-size: 18px;
+}
+#content5-b .mbr-article DIV {
+  color: #c1c1c1;
+}
+#content5-b .mbr-article P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content5-b .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-5 P {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#slider-5 H1 {
+  color: #7ac673;
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-5 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-166 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-166 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-166 .mbr-article {
+  color: #c1c1c1;
+  text-align: center;
+  font-size: 18px;
+}
+#content5-166 .mbr-article DIV {
+  color: #c1c1c1;
+}
+#content5-166 .mbr-article P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#gallery1-2 SMALL {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content5-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #e25041;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-article {
+  color: #c1c1c1;
+  text-align: center;
+  font-size: 18px;
+}
+#content5-9 .mbr-article DIV {
+  color: #c1c1c1;
+}
+#content5-9 .mbr-article P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content5-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #faaf40;
+  font-size: 46px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #c1c1c1;
+  font-size: 20px;
+}
+#content5-6 .mbr-article {
+  color: #fff;
+}
+#content5-6 .mbr-article P {
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  color: #faaf40;
+}
+#content5-6 .btn {
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-6 .mbr-header .mbr-header__subtext SPAN {
+  font-size: 18px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#social-buttons1-d .mbr-header__text {
+  color: #434343;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+#contacts3-7 STRONG {
+  color: #ffffff;
+}
+#contacts3-7 .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#contacts3-7 P {
+  text-align: right;
+  font-size: 14px;
+  color: #9c9c9c;
+  font-family: 'Titillium Web', sans-serif;
+}
+#contacts3-7 B {
+  color: #ffffff;
+}
+#footer1-3 P {
+  text-align: center;
 }

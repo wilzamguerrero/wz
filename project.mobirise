@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "cursos.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "4.10.5",
+    "versionPublish": "4.10.7",
     "name": "wilzamguerrero-clone",
     "theme": {
       "name": "default",
@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 54,
+    "uniqCompNum": 55,
     "noImageResize": "",
     "siteUrl": "https://wilzamguerrero.ml",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -32,652 +32,6 @@
     "gdpr": ""
   },
   "pages": {
-    "index.html": {
-      "settings": {
-        "main": true,
-        "title": "wilzamguerrero",
-        "meta_descr": "Portafolio",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#000000"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-navbar__items a": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "12px"
-            },
-            ".mbr-brand__name a": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "20px"
-            },
-            ".mbr-navbar__items a SPAN": {
-              "font-size": "12px"
-            }
-          },
-          "_name": "ext.menu",
-          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
-          "_anchor": "ext_menu-165",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#000000",
-            "hamburgerColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/alpha2h.gif",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "active": true
-            },
-            "iconFont": {
-              "classPrefix": "mdi-",
-              "name": "av-play-circle-fill",
-              "class": "mbr-iconfont mbr-iconfont-ext__menu",
-              "linkInNewWindow": false,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li>  ",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_styles": {
-            "SPAN": {
-              "font-size": "80px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "H1": {
-              "font-size": "48px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "center"
-            },
-            "P": {
-              "color": "#e25041",
-              "text-align": "center",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".btn": {
-              "font-size": "36px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_customCSS": "h1, {\n    font-size: 50px;\n    font-size: 5.3vw;\n}\n",
-          "_anchor": "header4-164",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v13n-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0"
-          },
-          "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
-          "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(226, 80, 65);\"></span>REEL</a>    "
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#7ac673",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#c1c1c1",
-              "text-align": "center",
-              "font-size": "18px"
-            },
-            ".mbr-article DIV": {
-              "color": "#c1c1c1"
-            },
-            ".mbr-article P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v10n2-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "TIENDA",
-          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros.</p><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\">CURSOS<br></a>",
-          "_tags": [
-            "Tema"
-          ],
-          "meta": "",
-          "_name": "content5",
-          "_anchor": "content5-b"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#000000",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/portada-2b-1920x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "<br><br><br><br>ZTOOLS 0.4",
-                "contentAlign": "center",
-                "text": "Ztools es un conjunto de herramientas recopilada de NUKEPEDIA y de otros artistas organizadas en una sola.&nbsp;buscando mejorar el workflow de composición y VFX en Nuke&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://gumroad.com/l/ozcrW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a> ",
-                "overlay": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-5",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "18px",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            },
-            "H1": {
-              "color": "#7ac673",
-              "font-size": "36px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#c1c1c1",
-              "text-align": "center",
-              "font-size": "18px"
-            },
-            ".mbr-article DIV": {
-              "color": "#c1c1c1"
-            },
-            ".mbr-article P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_name": "content5",
-          "_customCSS": "",
-          "_anchor": "content5-166",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v6n2-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "IDEAS",
-          "meta": "",
-          "text": "<p>Mi estilo va enmarcado por la forma de visualizar el mundo y la ciencia ficción, Es todo sobre la mezcla del pensamiento espiritual con el hombre, la máquina y el cuerpo; encontraras algunas ideas y ejercicios pensados en proyectos a desarrollar.</p><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#000000",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/v2n-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v2n-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Practica de Modelado",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/v3n-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v3n-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Concepto Mech 1",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/v4n-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v4n-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Concepto Mech 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/v5n-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v5n-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Concepto Fenix",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/v15n-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/v15n-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Concepto Mech 3",
-                "active": false
-              },
-              {
-                "active": true,
-                "thumb": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Practica Cartoon"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-2"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#e25041",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#c1c1c1",
-              "text-align": "center",
-              "font-size": "18px"
-            },
-            ".mbr-article DIV": {
-              "color": "#c1c1c1"
-            },
-            ".mbr-article P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v8n2-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "REEL",
-          "text": "<p>Aqui encontraras un pequeño portafolio en formato de video sobre mi perfil laboral deesarrollandome sobre todo como Riger &nbsp;- Animador <b>(EN CONSTRUCCIÓN)</b></p><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "Tema"
-          ],
-          "meta": "",
-          "_name": "content5",
-          "_anchor": "content5-9"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": false,
-            "bgColor": "#000000"
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cityscapes-architecture-new-york-city-grayscale-cities-1920x1080.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/ypcmyXn4LcE",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-1"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#faaf40",
-              "font-size": "46px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#c1c1c1",
-              "font-size": "20px"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "text-align": "center",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "25px",
-              "color": "#faaf40"
-            },
-            ".btn": {
-              "font-size": "12px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-header .mbr-header__subtext SPAN": {
-              "font-size": "18px",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_name": "content5",
-          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
-          "_anchor": "content5-6",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v14n-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "CONTACTO",
-          "meta": "<span style=\"font-style: normal;\"><b>WILMER ZAMBRANO GUERRERO</b><br>Nací en (San Juan de Pasto) Nariño - Colombia 1987, <br>Diseñador gráfico - Concept - Rigging - Animación, <br>Certificado adobe ACA y Autodesk Maya a nivel profesional.</span><br><br><span style=\"font-style: normal;\"><b>MIS HEROES.\n</b><br>Mi padre y madre los seres que mas admiro y quiero en este mundo, de ellos aprendí lo que es la disciplina, arte, creatividad, y ser persistente en mis sueños.<br></span>",
-          "text": "<p>wilzamguerrero@gmail.com</p>",
-          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-preview mbr-iconfont mbr-iconfont-btn\"></span>F A C E B O O K&nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>L I N K E D I N</a>"
-        },
-        {
-          "_params": {
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-t%C3%ADtulo-2-2000x1120.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6",
-            "counters": true,
-            "facebook": true,
-            "google": true,
-            "twitter": true
-          },
-          "text": "COMPARTE ESTA PAGINA!",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-d",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#434343",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "20px"
-            }
-          }
-        },
-        {
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "12px"
-            },
-            "P": {
-              "text-align": "right",
-              "font-size": "14px",
-              "color": "#9c9c9c",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            },
-            "B": {
-              "color": "#ffffff"
-            }
-          },
-          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
-          "_anchor": "contacts3-7",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
-          },
-          "text1": "<b>MIS REFERENTES\n</b><br>\n<br>peliculas como el Rey Leon, Star Wars, Jurasic Park, Alien en especial una llamada Hellraiser la cual me abrio la mente en mi camino; como artistas mis referentes son: jorge lucas, Guillermo del Toro, Giger, James Cameron, Michael Bay, Clive barker, Neville page, terryl witlack, Keith Thompson, paul gerrard entre otros&nbsp;",
-          "text2": "<p><b>ESCRIBEME</b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cualquier opinon o comentario con gusto &nbsp; te respondere en el menor tiempo posible.</p><p>&nbsp; &nbsp;<i> </i></p><p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"la gente mas feliz &nbsp;</i><i>no es la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tiene lo mejor de todo,&nbsp;</i><i>sino la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hace lo mejor con lo que tiene \"</i></p><p><br></p>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "wilzamguerrero@gmail.com",
-            "alerts": {
-              "success": "Gracias tu mensaje a sido enviado."
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Nombre*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Telefono"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensaje"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2019<br>",
-          "_tags": [
-            "Tema"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
-        }
-      ]
-    },
     "cursos.html": {
       "settings": {
         "meta_descr": "Cursos producción 3D",
@@ -771,7 +125,7 @@
           },
           "title": "<br><br><br><br><br><br><br>ANIMACIÓN 3D",
           "text": "CURSO DE ANIMACIÓN 3D PROFESIONAL NIVEL 1<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"pagar.html#header4-16\" data-toolbar=\"-mbrBtnMove\">PAGAR</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page1.html#header2-u\" data-toolbar=\"-mbrBtnMove\">INFORMACIÓN</a> ",
           "_tags": [
             "Tema"
           ],
@@ -1896,6 +1250,682 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1h"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "wilzamguerrero",
+        "meta_descr": "(⊙.☉)つ Portafolio \n\n\n\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
+          "_anchor": "ext_menu-165",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alpha2h.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "classPrefix": "mdi-",
+              "name": "av-play-circle-fill",
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "linkInNewWindow": false,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "80px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H1": {
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#e25041",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".btn": {
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_customCSS": "h1, {\n    font-size: 50px;\n    font-size: 5.3vw;\n}\n",
+          "_anchor": "header4-164",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v13n-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0"
+          },
+          "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
+          "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(226, 80, 65);\"></span>REEL</a>    "
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#7ac673",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-article DIV": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-article P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v10n2-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "TIENDA",
+          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros.</p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\">CURSOS<br></a>",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_anchor": "content5-b"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/portada-2b-1920x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "<br><br><br><br>ZTOOLS 0.4",
+                "contentAlign": "center",
+                "text": "Ztools es un conjunto de herramientas recopilada de NUKEPEDIA y de otros artistas organizadas en una sola.&nbsp;buscando mejorar el workflow de composición y VFX en Nuke&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://gumroad.com/l/ozcrW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a> ",
+                "overlay": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-5",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "H1": {
+              "color": "#7ac673",
+              "font-size": "36px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-article DIV": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-article P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": "",
+          "_anchor": "content5-166",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v6n2-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "IDEAS",
+          "meta": "",
+          "text": "<p>Mi estilo va enmarcado por la forma de visualizar el mundo y la ciencia ficción, Es todo sobre la mezcla del pensamiento espiritual con el hombre, la máquina y el cuerpo; encontraras algunas ideas y ejercicios pensados en proyectos a desarrollar.</p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/v2n-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v2n-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Practica de Modelado",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v3n-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v3n-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Mech 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v4n-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v4n-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Mech 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v5n-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v5n-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Fenix",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/v15n-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/v15n-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Mech 3",
+                "active": false
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Practica Cartoon"
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/web-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-1920x1080.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Buenamente Diseño Gráfico UNICESMAG"
+              },
+              {
+                "active": true,
+                "thumb": "@PROJECT_PATH@/assets/images/web-2-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web-2-1920x1080.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Ilustradero&nbsp;"
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/web1-1920x1080-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/web1-1920x1080.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Persoanje Diseño Gráfico UNICESMAG"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#e25041",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-article DIV": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-article P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v8n2-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "REEL",
+          "text": "<p>Aqui encontraras un pequeño portafolio en formato de video sobre mi perfil laboral deesarrollandome sobre todo como Riger &nbsp;- Animador <b>(EN CONSTRUCCIÓN)</b></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "meta": "",
+          "_name": "content5",
+          "_anchor": "content5-9"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#000000"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cityscapes-architecture-new-york-city-grayscale-cities-1920x1080.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/ypcmyXn4LcE",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-1"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#faaf40",
+              "font-size": "46px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#c1c1c1",
+              "font-size": "20px"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "25px",
+              "color": "#faaf40"
+            },
+            ".btn": {
+              "font-size": "12px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-header .mbr-header__subtext SPAN": {
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_anchor": "content5-6",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/v14n-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "CONTACTO",
+          "meta": "<span style=\"font-style: normal;\"><b>WILMER ZAMBRANO GUERRERO</b><br>Nací en (San Juan de Pasto) Nariño - Colombia 1987, <br>Diseñador gráfico - Concept - Rigging - Animación, <br>Certificado adobe ACA y Autodesk Maya a nivel profesional.</span><br><br><span style=\"font-style: normal;\"><b>MIS HEROES.\n</b><br>Mi padre y madre los seres que mas admiro y quiero en este mundo, de ellos aprendí lo que es la disciplina, arte, creatividad, y ser persistente en mis sueños.<br></span>",
+          "text": "<p>wilzamguerrero@gmail.com</p>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-preview mbr-iconfont mbr-iconfont-btn\"></span>F A C E B O O K&nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>L I N K E D I N</a>"
+        },
+        {
+          "_params": {
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-t%C3%ADtulo-2-2000x1120.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6",
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "COMPARTE ESTA PAGINA!",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#434343",
+              "text-align": "center",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "14px",
+              "color": "#9c9c9c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_anchor": "contacts3-7",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text1": "<b>MIS REFERENTES\n</b><br>\n<br>peliculas como el Rey Leon, Star Wars, Jurasic Park, Alien en especial una llamada Hellraiser la cual me abrio la mente en mi camino; como artistas mis referentes son: jorge lucas, Guillermo del Toro, Giger, James Cameron, Michael Bay, Clive barker, Neville page, terryl witlack, Keith Thompson, paul gerrard entre otros&nbsp;",
+          "text2": "<p><b>ESCRIBEME</b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cualquier opinon o comentario con gusto &nbsp; te respondere en el menor tiempo posible.</p><p>&nbsp; &nbsp;<i> </i></p><p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"la gente mas feliz &nbsp;</i><i>no es la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tiene lo mejor de todo,&nbsp;</i><i>sino la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hace lo mejor con lo que tiene \"</i></p><p><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wilzamguerrero@gmail.com",
+            "alerts": {
+              "success": "Gracias tu mensaje a sido enviado."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR</a>"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019<br>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
