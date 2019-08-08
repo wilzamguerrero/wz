@@ -1419,7 +1419,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/v10n2-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -1596,15 +1596,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Concepto Mech 3",
-                "active": false
-              },
-              {
-                "active": false,
-                "thumb": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/v9n-1-1920x1080.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Practica Cartoon"
+                "active": true
               },
               {
                 "active": false,
@@ -1615,7 +1607,7 @@
                 "caption": "Buenamente Diseño Gráfico UNICESMAG"
               },
               {
-                "active": true,
+                "active": false,
                 "thumb": "@PROJECT_PATH@/assets/images/web-2-1920x1080-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/web-2-1920x1080.jpg",
                 "alt": "",
@@ -1806,7 +1798,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-t%C3%ADtulo-2-2000x1120.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#000000",
@@ -1862,7 +1854,7 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x11200.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
