@@ -1419,7 +1419,7 @@
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/concept6-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -1605,6 +1605,30 @@
                 "alt": "",
                 "title": "",
                 "caption": "Buenamente Diseño Gráfico UNICESMAG"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/concept2-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/concept2-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Gaia 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/concept3-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/concept3-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Gaia 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/concept1-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/concept1-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Concepto Pasto Futuro",
+                "active": false
               },
               {
                 "active": false,
@@ -1798,7 +1822,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-t%C3%ADtulo-2-2000x1120.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#000000",
@@ -1854,7 +1878,7 @@
             "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x11200.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
