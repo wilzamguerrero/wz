@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "cursos.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "4.10.7",
+    "versionPublish": "4.12.0",
     "name": "wilzamguerrero-clone",
     "theme": {
       "name": "default",
@@ -29,7 +29,8 @@
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
-    "gdpr": ""
+    "gdpr": "",
+    "imageResize": true
   },
   "pages": {
     "cursos.html": {
@@ -1377,7 +1378,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
           "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(226, 80, 65);\"></span>REEL</a>    "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(226, 80, 65);\"></span>Proyecto<br>animado social<br></a>     "
         },
         {
           "_inherit": "msg-box3",
@@ -1433,8 +1434,8 @@
             "overlayOpacity": "0.6"
           },
           "title": "TIENDA",
-          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros.</p><p></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\">CURSOS<br></a>",
+          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros para que cualquier persona pueda usar esta informacion en proyectos reales para la comunidad y problemas de nuestra sociedad.&nbsp;</p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>CURSOS</a> ",
           "_tags": [
             "Tema"
           ],
@@ -1460,8 +1461,8 @@
                 "showTitle": true,
                 "title": "<br><br><br><br>ZTOOLS 0.4",
                 "contentAlign": "center",
-                "text": "Ztools es un conjunto de herramientas recopilada de NUKEPEDIA y de otros artistas organizadas en una sola.&nbsp;buscando mejorar el workflow de composición y VFX en Nuke&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://gumroad.com/l/ozcrW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a> ",
+                "text": "Ztools es un conjunto de herramientas en desarrollo buscando mejorar el workflow de composición y VFX en Nuke&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://gumroad.com/l/ozcrW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>DESCARGAR</a>  ",
                 "overlay": false
               }
             ]
@@ -1738,7 +1739,7 @@
             "video": {
               "active": true,
               "class": "mbr-figure__img",
-              "src": "https://youtu.be/ypcmyXn4LcE",
+              "src": "https://youtu.be/UeYa_vvpPcU",
               "autoplay": false,
               "loop": false
             }
