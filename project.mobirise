@@ -1378,7 +1378,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
           "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(226, 80, 65);\"></span>Proyecto<br>animado social<br></a>     "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(235, 107, 86);\"></span>Reel</a>     "
         },
         {
           "_inherit": "msg-box3",
@@ -1434,7 +1434,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "TIENDA",
-          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros para que cualquier persona pueda usar esta informacion en proyectos reales para la comunidad y problemas de nuestra sociedad.&nbsp;</p><p></p>",
+          "text": "<p>En esta tienda encontraras Scripts - Plugins - Cursos desarrollados por mi o en compañia de otros artistas en la industria de VFX, Conceptos, &nbsp;Modelado, Texturizados, Animacion, Rigging, Composición, Pipeline entre otros conceptos.&nbsp;</p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"cursos.html#header4-n\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>CURSOS</a> ",
           "_tags": [
             "Tema"
@@ -1815,7 +1815,7 @@
           "title": "CONTACTO",
           "meta": "<span style=\"font-style: normal;\"><b>WILMER ZAMBRANO GUERRERO</b><br>Nací en (San Juan de Pasto) Nariño - Colombia 1987, <br>Diseñador gráfico - Concept - Rigging - Animación, <br>Certificado adobe ACA y Autodesk Maya a nivel profesional.</span><br><br><span style=\"font-style: normal;\"><b>MIS HEROES.\n</b><br>Mi padre y madre los seres que mas admiro y quiero en este mundo, de ellos aprendí lo que es la disciplina, arte, creatividad, y ser persistente en mis sueños.<br></span>",
           "text": "<p>wilzamguerrero@gmail.com</p>",
-          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-preview mbr-iconfont mbr-iconfont-btn\"></span>F A C E B O O K&nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>L I N K E D I N</a>"
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.behance.net/wilzamguerrero/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-preview mbr-iconfont mbr-iconfont-btn\"></span>B E H A N C E&nbsp;</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://www.facebook.com/wilg13z13\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>L I N K E D I N</a>"
         },
         {
           "_params": {
