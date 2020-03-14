@@ -1378,7 +1378,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
           "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(235, 107, 86);\"></span>Reel</a>     "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"pagar.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(235, 107, 86);\"></span>Reel</a>     "
         },
         {
           "_inherit": "msg-box3",
