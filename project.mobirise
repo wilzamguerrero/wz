@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.12.0",
     "name": "wilzamguerrero-clone",
@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 55,
+    "uniqCompNum": 58,
     "noImageResize": "",
     "siteUrl": "https://wilzamguerrero.ml",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -37,7 +37,7 @@
       "settings": {
         "meta_descr": "Cursos producción 3D",
         "title": "cursos",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -74,7 +74,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
@@ -99,7 +99,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"cursos.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>",
           "_anchor": "ext_menu-g"
         },
@@ -822,7 +822,7 @@
       "settings": {
         "meta_descr": "Pagar",
         "title": "pagar",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -859,7 +859,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
@@ -884,7 +884,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"cursos.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>",
           "_anchor": "ext_menu-v"
         },
@@ -1299,7 +1299,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "color": "#000000",
             "hamburgerColor": "#ffffff"
@@ -1324,7 +1324,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"cursos.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>"
         },
         {
@@ -1943,6 +1943,171 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "webgl",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-navbar__items a SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/alpha2h.gif",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "classPrefix": "mdi-",
+              "name": "av-play-circle-fill",
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "linkInNewWindow": false,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">wilzamguerrero</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbrib-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(147, 101, 184);\"></span>INICIO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-9\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 32px; color: rgb(226, 80, 65);\"></span>REEL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-166\"><span class=\"mbrib-change-style mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span>IDEAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\"><span class=\"mbrib-shopping-cart mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(122, 198, 115);\"></span>TIENDA</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-6\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(250, 175, 64);\"></span>CONTACTO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 26px;\"></span>WEBGL</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://www.stcdesigns.com/mobirise/template7/template7.rar\" data-toolbar=\"-mbrBtnMove\"><span class=\"mdi-file-cloud-download mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 18px;\"></span>DOWNLOAD TEMPLATE</a></li>",
+          "_anchor": "ext_menu-1j"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "12px"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "14px",
+              "color": "#9c9c9c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            }
+          },
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sin-ttulo-2-2000x1120.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text1": "<b>MIS REFERENTES\n</b><br>\n<br>peliculas como el Rey Leon, Star Wars, Jurasic Park, Alien en especial una llamada Hellraiser la cual me abrio la mente en mi camino; como artistas mis referentes son: jorge lucas, Guillermo del Toro, Giger, James Cameron, Michael Bay, Clive barker, Neville page, terryl witlack, Keith Thompson, paul gerrard entre otros&nbsp;",
+          "text2": "<p><b>ESCRIBEME</b><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cualquier opinon o comentario con gusto &nbsp; te respondere en el menor tiempo posible.</p><p>&nbsp; &nbsp;<i> </i></p><p><i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \"la gente mas feliz &nbsp;</i><i>no es la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; tiene lo mejor de todo,&nbsp;</i><i>sino la que &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hace lo mejor con lo que tiene \"</i></p><p><br></p>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "wilzamguerrero@gmail.com",
+            "alerts": {
+              "success": "Gracias tu mensaje a sido enviado."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>ENVIAR</a>",
+          "_anchor": "contacts3-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019<br>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-1l"
         }
       ]
     }

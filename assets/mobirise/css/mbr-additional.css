@@ -427,3 +427,46 @@
 #footer1-3 P {
   text-align: center;
 }
+
+
+
+
+#ext_menu-1j .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-1j .mbr-navbar__items a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#ext_menu-1j .mbr-brand__name a {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+#ext_menu-1j .mbr-navbar__items a SPAN {
+  font-size: 12px;
+}
+#contacts3-1k STRONG {
+  color: #ffffff;
+}
+#contacts3-1k .btn {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+}
+#contacts3-1k P {
+  text-align: right;
+  font-size: 14px;
+  color: #9c9c9c;
+  font-family: 'Titillium Web', sans-serif;
+}
+#contacts3-1k B {
+  color: #ffffff;
+}
+#footer1-1l P {
+  text-align: center;
+}
