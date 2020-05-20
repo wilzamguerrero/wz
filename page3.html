@@ -9,7 +9,8 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/test.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.Error.Handler = function() {};
+UnityLoader.compatibilityCheck = function(e,t,r) { t(); };
     </script>
   </head>
   <body>
