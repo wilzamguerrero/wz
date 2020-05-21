@@ -12,21 +12,6 @@
     	UnityLoader.Error.Handler = function() {};
 		UnityLoader.compatibilityCheck = function(e,t,r) { t(); };
       var unityInstance = UnityLoader.instantiate("unityContainer", "Build/Nueva carpeta.json", {onProgress: UnityProgress});
-
-
-function setDimensions() {
-    var gameContainer = $('#gameContainer');
-    var unityCanvas = $('canvas');
-    unityCanvas.width( gameContainer.innerWidth() );
-    unityCanvas.height( gameContainer.innerHeight() );
-}
-var resizeTimer;
-$(window).on( 'resize', function(e) {
-    clearTimeout( resizeTimer );
-    resizeTimer = setTimeout( setDimensions, 150 );
-});
-
-
     </script>
   </head>
   <body>
