@@ -11,7 +11,7 @@
     <script>
     	            UnityLoader.Error.Handler = function() {};
             UnityLoader.compatibilityCheck = function(e,t,r) { t(); };
-      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/test gama all.json", {onProgress: UnityProgress});
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/test linear 3 cons.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
@@ -20,6 +20,7 @@
       <div class="footer">
         <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+        <div class="title">webgl</div>
       </div>
     </div>
   </body>
