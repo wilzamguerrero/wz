@@ -2052,29 +2052,7 @@ var UnityLoader = UnityLoader || {
         }
     }(),
     compatibilityCheck: function(e, t, r) {
-        UnityLoader.SystemInfo.hasWebGL ? UnityLoader.SystemInfo.mobile ? e.popup("Please note that Unity WebGL is not currently supported on mobiles. Press OK if you wish to continue anyway.", [{
-            text: "OK",
-            callback: t
-        }]) : ["Edge", "Firefox", "Chrome", "Safari"].indexOf(UnityLoader.SystemInfo.browser) == -1 ? e.popup("Please note that your browser is not currently supported for this Unity WebGL content. Press OK if you wish to continue anyway.", [{
-            text: "OK",
-            callback: t
-        }]) : t() : e.popup("Your browser does not support WebGL", [{
-            text: "OK",
-            callback: r
-        }])
-    },
-    buildCompatibilityCheck: function(e, t, r) {
-        function n() {
-            if ("undefined" == typeof e.graphicsAPI) return !0;
-            for (var t = 0; t < e.graphicsAPI.length; t++) {
-                var r = e.graphicsAPI[t];
-                if ("WebGL 2.0" == r && 2 == UnityLoader.SystemInfo.hasWebGL) return !0;
-                if ("WebGL 1.0" == r && UnityLoader.SystemInfo.hasWebGL >= 1) return !0;
-                e.print("Warning: Unsupported graphics API " + r)
-            }
-            return !1
-        }
-        n() ? !UnityLoader.SystemInfo.hasThreads && e.multithreading ? r("Your browser does not support multithreading.") : t() : r("Your browser does not support any of the required graphics API for this content.")
+        t( );
     },
     Blobs: {},
     loadCode: function(e, t, r, n) {
