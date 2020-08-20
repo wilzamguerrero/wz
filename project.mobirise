@@ -30,7 +30,9 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "gdpr": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "cursos.html": {
