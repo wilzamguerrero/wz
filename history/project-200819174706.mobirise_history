@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "2.11.1",
-    "versionPublish": "5.0.28",
+    "versionPublish": "4.12.0",
     "name": "wilzamguerrero-clone",
     "theme": {
       "name": "default",
@@ -1364,7 +1364,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wallpaper2e-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/v13n-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -1646,14 +1646,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "Persoanje Diseño Gráfico UNICESMAG"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/wallpaper2d-1920x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wallpaper2d-1920x1080-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Concepto Hombre",
-                "active": false
               }
             ]
           },
