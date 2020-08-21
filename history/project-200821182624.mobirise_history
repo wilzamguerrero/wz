@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "uniqCompNum": 62,
+    "uniqCompNum": 58,
     "noImageResize": "",
     "siteUrl": "https://wilzamguerrero.ml",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
@@ -30,7 +30,9 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "gdpr": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "cursos.html": {
@@ -1378,7 +1380,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">wilzamguerrero</span>",
           "text": "\"la gente mas feliz no es la que tiene lo mejor de todo <br>sino la que hace lo mejor con lo que tiene \"",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"index.html#content5-9\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(235, 107, 86);\"></span>PORTAFOLIO</a>     "
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-link\" href=\"pagar.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-video mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 60px; color: rgb(235, 107, 86);\"></span>Reel</a>     "
         },
         {
           "_inherit": "msg-box3",
@@ -1719,8 +1721,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "title": "PORTAFOLIO",
-          "text": "<p>Aqui encontraras un pequeño portafolio en formato de video sobre mi perfil laboral deesarrollandome sobre todo como Modelador&nbsp; - Animador - Rigger&nbsp;<b>(EN CONSTRUCCIÓN)</b></p><p></p>",
+          "title": "REEL",
+          "text": "<p>Aqui encontraras un pequeño portafolio en formato de video sobre mi perfil laboral deesarrollandome sobre todo como Riger &nbsp;- Animador <b>(EN CONSTRUCCIÓN)</b></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Tema"
@@ -1728,60 +1730,6 @@
           "meta": "",
           "_name": "content5",
           "_anchor": "content5-9"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/zM1EAmeC5Pk",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "Speed Sculpt 02 para BOSTO",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1o"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/BAUCBjWGfow",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "Speed Sculpt 04 BOSTO",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1p"
         },
         {
           "_styles": {},
