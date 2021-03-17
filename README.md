@@ -1,2 +1,0 @@
-# wz
-GitHub Pages
