@@ -692,8 +692,8 @@ a {
   transition: color 0.6s;
 }
 .cid-srToZo6nDe {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
   background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-srToZo6nDe .mbr-overlay {
@@ -713,6 +713,14 @@ a {
 .cid-srToZo6nDe .item {
   cursor: pointer;
   margin-bottom: 2rem;
+}
+.cid-srToZo6nDe .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-srToZo6nDe .item {
+  padding: 0;
+  margin: 0;
 }
 .cid-srToZo6nDe .item-wrapper {
   position: relative;
